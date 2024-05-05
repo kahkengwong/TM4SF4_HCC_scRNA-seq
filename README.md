@@ -1,13 +1,33 @@
-# TM4SF4_HCC_scRNA-seq Paper Repository
-Author: Kah Keng Wong  
-GitHub: [kahkengwong/TM4SF4_HCC_scRNA-seq](https://github.com/kahkengwong/TM4SF4_HCC_scRNA-seq)
+# 🧬 TM4SF4_HCC_scRNA-seq Paper Repository
+![GitHub](https://img.shields.io/github/license/kahkengwong/TM4SF4_HCC_scRNA-seq) ![GitHub last commit](https://img.shields.io/github/last-commit/kahkengwong/TM4SF4_HCC_scRNA-seq)
 
-## Scripts
-1. `scRNA-seq_Gallbladder.r`: Scripts to perform scRNA-seq data analysis of gallbladder samples.
-2. `scRNA-seq_Liver.r`: Scripts to perform scRNA-seq data analysis of liver samples.
+**Author:** Kah Keng Wong  
+**GitHub Repository:** [kahkengwong/TM4SF4_HCC_scRNA-seq](https://github.com/kahkengwong/TM4SF4_HCC_scRNA-seq)
 
-## References
-This project obtained the RNA-seq datasets from GSE134355 and GSE149614 available on the Gene Expression Omnibus database (https://www.ncbi.nlm.nih.gov/geo/) and in the original articles by Han et al., 2020 (DOI: 10.1038/s41586-020-2157-4) and Lu et al., 2022 (DOI: 10.1038/s41467-022-32283-3), respectively. 
+## 📜 **Description**
+This repository contains scripts and resources used for analyzing single-cell RNA sequencing (scRNA-seq) data for gallbladder and liver samples.
 
-## Contact
-For further information or questions, please email [kahkeng@usm.my](mailto:kahkeng@usm.my) or [kahkeng3@gmail.com](mailto:kahkeng3@gmail.com).
+## 🛠️ **Scripts**
+1. `scRNA-seq_Gallbladder.r` - Analysis of gallbladder samples.
+2. `scRNA-seq_Liver.r` - Analysis of liver samples.
+
+## 📚 **References**
+This project uses RNA-seq datasets from:
+- GSE134355 - [View Dataset](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE134355)
+- GSE149614 - [View Dataset](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE149614)
+
+## 📃 **Usage**
+# Clone the repository
+git clone https://github.com/kahkengwong/TM4SF4_HCC_scRNA-seq.git
+
+# Navigate to the directory
+cd TM4SF4_HCC_scRNA-seq
+
+# Run the scripts
+Rscript scRNA-seq_Gallbladder.r
+Rscript scRNA-seq_Liver.r
+
+## 📧 **Contact**
+If you have any questions or require further information, please feel free to reach out via email:  
+- [kahkeng@usm.my](mailto:kahkeng@usm.my)  
+- [kahkeng3@gmail.com](mailto:kahkeng3@gmail.com)
