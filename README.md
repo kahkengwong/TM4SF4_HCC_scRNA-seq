@@ -1,5 +1,9 @@
 # 🧬 TM4SF4_HCC_scRNA-seq Paper Repository
 ![GitHub last commit](https://img.shields.io/github/last-commit/kahkengwong/TM4SF4_HCC_scRNA-seq)
+[![GitHub issues](https://img.shields.io/github/issues/kahkengwong/TM4SF4_HCC_scRNA-seq)](https://github.com/kahkengwong/TM4SF4_HCC_scRNA-seq/issues)
+[![GitHub forks](https://img.shields.io/github/forks/kahkengwong/TM4SF4_HCC_scRNA-seq)](https://github.com/kahkengwong/TM4SF4_HCC_scRNA-seq/network)
+[![GitHub stars](https://img.shields.io/github/stars/kahkengwong/TM4SF4_HCC_scRNA-seq)](https://github.com/kahkengwong/TM4SF4_HCC_scRNA-seq/stargazers)
+[![GitHub license](https://img.shields.io/github/license/kahkengwong/TM4SF4_HCC_scRNA-seq)](https://github.com/kahkengwong/TM4SF4_HCC_scRNA-seq/blob/main/LICENSE)
 
 ---
 
