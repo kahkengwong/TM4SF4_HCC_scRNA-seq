@@ -1,6 +1,8 @@
 # 🧬 TM4SF4_HCC_scRNA-seq Paper Repository
 ![GitHub last commit](https://img.shields.io/github/last-commit/kahkengwong/TM4SF4_HCC_scRNA-seq)
 
+---
+
 **Author:** Kah Keng Wong  
 **GitHub Repository:** [kahkengwong/TM4SF4_HCC_scRNA-seq](https://github.com/kahkengwong/TM4SF4_HCC_scRNA-seq)
 
@@ -26,13 +28,17 @@ This project uses RNA-seq datasets from:
 
 ## 📃 **Usage**
 **Clone the repository**
+
 git clone https://github.com/kahkengwong/TM4SF4_HCC_scRNA-seq.git
 
 **Navigate to the directory**
+
 cd TM4SF4_HCC_scRNA-seq
 
 **Run the scripts**
+
 Rscript scRNA-seq_Gallbladder.r
+
 Rscript scRNA-seq_Liver.r
 
 ---
