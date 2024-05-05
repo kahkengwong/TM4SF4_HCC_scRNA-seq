@@ -3,12 +3,18 @@
 [![GitHub issues](https://img.shields.io/github/issues/kahkengwong/TM4SF4_HCC_scRNA-seq)](https://github.com/kahkengwong/TM4SF4_HCC_scRNA-seq/issues)
 [![GitHub forks](https://img.shields.io/github/forks/kahkengwong/TM4SF4_HCC_scRNA-seq)](https://github.com/kahkengwong/TM4SF4_HCC_scRNA-seq/network)
 [![GitHub stars](https://img.shields.io/github/stars/kahkengwong/TM4SF4_HCC_scRNA-seq)](https://github.com/kahkengwong/TM4SF4_HCC_scRNA-seq/stargazers)
-[![GitHub license](https://img.shields.io/github/license/kahkengwong/TM4SF4_HCC_scRNA-seq)](https://github.com/kahkengwong/TM4SF4_HCC_scRNA-seq/blob/main/LICENSE)
-
----
 
 **Author:** Kah Keng Wong  
 **GitHub Repository:** [kahkengwong/TM4SF4_HCC_scRNA-seq](https://github.com/kahkengwong/TM4SF4_HCC_scRNA-seq)
+
+---
+
+## 📌 Table of Contents
+- [Description](#description)
+- [Scripts](#scripts)
+- [Usage](#usage)
+- [References](#references)
+- [Contact](#contact)
 
 ---
 
@@ -23,14 +29,7 @@ This repository contains scripts and resources used for analyzing single-cell RN
 
 ---
 
-## 📚 **References**
-This project uses RNA-seq datasets from:
-- GSE134355 - [View Dataset](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE134355)
-- GSE149614 - [View Dataset](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE149614)
-
----
-
-## 📃 **Usage**
+## 💻 **Usage**
 **Clone the repository**
 
 git clone https://github.com/kahkengwong/TM4SF4_HCC_scRNA-seq.git
@@ -44,6 +43,13 @@ cd TM4SF4_HCC_scRNA-seq
 Rscript scRNA-seq_Gallbladder.r
 
 Rscript scRNA-seq_Liver.r
+
+---
+
+## 📚 **References**
+This project uses RNA-seq datasets from:
+- GSE134355 - [View Dataset](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE134355)
+- GSE149614 - [View Dataset](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE149614)
 
 ---
 
