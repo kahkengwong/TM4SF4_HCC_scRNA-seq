@@ -44,11 +44,6 @@ Rscript scRNA-seq_Liver.r
 ---
 
 ## 📧 **Contact**
-If you have any questions or require further information, please feel free to reach out via email:  
-- [kahkeng@usm.my](mailto:kahkeng@usm.my)  
-- [kahkeng3@gmail.com](mailto:kahkeng3@gmail.com)
-
-## :email: Contact
 For further information or questions, please email:
 - [kahkeng@usm.my](mailto:kahkeng@usm.my)
 - [kahkeng3@gmail.com](mailto:kahkeng3@gmail.com)
