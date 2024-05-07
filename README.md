@@ -18,7 +18,7 @@
 
 ---
 
-## 📜 **Description**
+## 📜 Description
 This repository contains scripts and resources used for analyzing single-cell RNA sequencing (scRNA-seq) data for gallbladder and liver samples.
 
 ---
