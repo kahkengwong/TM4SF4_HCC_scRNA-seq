@@ -10,7 +10,7 @@
 ---
 
 ## 📌 Table of Contents
-- [Description](#📜description)
+- [Description](#description)
 - [Scripts](#scripts)
 - [Usage](#usage)
 - [References](#references)
