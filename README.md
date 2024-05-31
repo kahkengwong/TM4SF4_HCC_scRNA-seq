@@ -1,8 +1,10 @@
 # TM4SF4_HCC_scRNA-seq Paper Repository
 ![GitHub last commit](https://img.shields.io/github/last-commit/kahkengwong/TM4SF4_HCC_scRNA-seq)
-[![GitHub issues](https://img.shields.io/github/issues/kahkengwong/TM4SF4_HCC_scRNA-seq)](https://github.com/kahkengwong/TM4SF4_HCC_scRNA-seq/issues)
-[![GitHub forks](https://img.shields.io/github/forks/kahkengwong/TM4SF4_HCC_scRNA-seq)](https://github.com/kahkengwong/TM4SF4_HCC_scRNA-seq/network)
-[![GitHub stars](https://img.shields.io/github/stars/kahkengwong/TM4SF4_HCC_scRNA-seq)](https://github.com/kahkengwong/TM4SF4_HCC_scRNA-seq/stargazers)
+![GitHub repo size](https://img.shields.io/github/repo-size/kahkengwong/TM4SF4_HCC_scRNA-seq)
+![GitHub languages](https://img.shields.io/github/languages/count/kahkengwong/TM4SF4_HCC_scRNA-seq)
+![GitHub top language](https://img.shields.io/github/languages/top/kahkengwong/TM4SF4_HCC_scRNA-seq)
+![Contributors](https://img.shields.io/github/contributors/kahkengwong/TM4SF4_HCC_scRNA-seq)
+
 
 **Author:** Kah Keng Wong  
 **GitHub Repository:** [kahkengwong/TM4SF4_HCC_scRNA-seq](https://github.com/kahkengwong/TM4SF4_HCC_scRNA-seq)
