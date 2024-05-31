@@ -7,7 +7,6 @@
 
 
 **Author:** Kah Keng Wong  
-**GitHub Repository:** [kahkengwong/TM4SF4_HCC_scRNA-seq](https://github.com/kahkengwong/TM4SF4_HCC_scRNA-seq)
 
 ---
 
