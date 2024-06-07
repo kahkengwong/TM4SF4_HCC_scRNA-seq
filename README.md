@@ -29,6 +29,4 @@ This project uses RNA-seq datasets from:
 ---
 
 ## **Contact**
-For further information or questions, please email:
-- [kahkeng@usm.my](mailto:kahkeng@usm.my)
-- [kahkeng3@gmail.com](mailto:kahkeng3@gmail.com)
+For further information or questions, please email [kahkeng@usm.my](mailto:kahkeng@usm.my)
